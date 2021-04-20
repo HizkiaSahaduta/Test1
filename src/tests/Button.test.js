@@ -7,7 +7,7 @@ const mockOnClick = jest.fn();
 const mockProps = {
   onClick: mockOnClick,
   className: 'a-class-name',
-  text: 'Try to me!',
+  text: 'Try to click me!',
 };
 
 describe('Button', () => {
