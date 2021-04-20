@@ -3,7 +3,7 @@ import axios from 'axios';
 export function fetchUsers() {
   return {
     type: 'FETCH_USER',
-    payload: axios.get('https://randomuser.me/api/?results=50&nat=fi,dk,fr,gb&seed=foobar'),
+    payload: axios.get('https://randomuser.me/api/?results=50'),
   };
 }
 
