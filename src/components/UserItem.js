@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { hashHistory } from 'react-router';
-import { firstToUpper } from '../utilities/utitlities';
+import { firstToUpper } from '../utilities/utilities';
 
 export default class UserItem extends Component {
   getHighlightedText(text, highlight) {
