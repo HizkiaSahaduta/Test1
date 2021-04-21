@@ -17,13 +17,13 @@
   }
   
   /* .button {
-      background: #2199e8;
+      background: #325288;
       box-shadow: 0 -2px 0 rgba(0,0,0,0.2) inset;
       border-radius: 3px;
   } */
   
   .input-group-label {
-      background: #2199e8;
+      background: #325288;
       color: white;
   }
   
@@ -32,7 +32,7 @@
   }
   
   .top-bar, .top-bar ul {
-      background-color: #2199e8;
+      background-color: #325288;
       color: white;
   }
   .top-bar a {
